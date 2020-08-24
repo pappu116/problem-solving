@@ -1,0 +1,24 @@
+.user{
+    display:flex;
+    border-bottom: 1px solid gray;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+.user-name{
+    margin-left: 20px;
+    line-height: .8em;
+    margin-top: -20px;
+    
+}
+
+.addbtn{
+    width: 140px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: #F4841A;
+    color: #ddd;
+    cursor: pointer;
+}
